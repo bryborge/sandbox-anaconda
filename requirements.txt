@@ -6,7 +6,7 @@
 # scikit-learn
 # jupyter
 
-# Additional packages you might want
+# Additional packages
 plotly>=5.0.0
 dash>=2.0.0
 streamlit>=1.0.0
